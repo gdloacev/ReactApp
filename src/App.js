@@ -4,7 +4,7 @@ import Header from './components/Header';
 
 function App() {
 
-  const name = 'Oscar';
+  const name = 'Oscar Aceves';
   const calc = 2+2;
 
   return (
