@@ -4,8 +4,8 @@ import Header from './components/Header';
 
 function App() {
 
-  const name = 'Oscar Aceves';
-  const calc = 8*5;
+  const name = 'Oscar';
+  const calc = 8*8;
 
   return (
     <div className="App-header">
