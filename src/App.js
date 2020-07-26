@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App-header">
-        <Header name={name} lastname='Aceves' calc={calc}/>
+        <Header name={name} lastname='' calc={calc}/>
     </div>
   );
 }
