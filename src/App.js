@@ -5,7 +5,7 @@ import Header from './components/Header';
 function App() {
 
   const name = 'Oscar Aceves Davalos';
-  const calc = 007;
+  const calc = 5*47;
 
   return (
     <div className="App-header">
