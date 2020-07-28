@@ -25,3 +25,4 @@ steps:
     PathtoPublish: 'build'
     ArtifactName: 'drop'
     publishLocation: 'Container'
+  displayName: "Publish Artifact"
